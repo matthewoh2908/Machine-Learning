@@ -2,8 +2,6 @@
 
 This project builds a **neural network model** to classify images as either **cats or dogs** using a simple deep learning approach.
 
-Based on my coursework: :contentReference[oaicite:0]{index=0}  
-
 ---
 
 ## Project Overview
